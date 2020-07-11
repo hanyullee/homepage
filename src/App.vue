@@ -1,7 +1,9 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/hanyul_profile_pic.jpeg">
+    <HelloWorld msg_kr="안녕하세요. 이한율입니다."/>
+    <HelloWorld msg_en="Hello. My name is hanyul."/>
+    <HelloWorld msg_es="Hola. Mi nombre es hanyul"/>
   </div>
 </template>
 
